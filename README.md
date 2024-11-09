@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @knotellie
+- 👀 I’m interested in Python automatization, UNIX, HTML5, CSS, JavaScript and Networking
+- 🌱 I’m currently learning Networking fundamentals
+- 💞️ I’m looking to collaborate on automatization projects with Python
+- 📫 How to reach me https://www.linkedin.com/in/elizabeth-morles/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: My mom said that being in a computer all day would leave me to nothing and now it's my full-time job!
